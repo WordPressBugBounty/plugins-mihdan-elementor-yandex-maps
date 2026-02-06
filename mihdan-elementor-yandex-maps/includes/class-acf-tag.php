@@ -35,7 +35,7 @@ class ACF_Tag extends Tag {
 	/**
 	 * Register controls.
 	 */
-	protected function _register_controls() {
+	protected function register_controls() {
 		$this->add_control(
 			'fields',
 			array(
@@ -69,6 +69,6 @@ class ACF_Tag extends Tag {
 			$value = $sum / $count;
 		}
 
-		echo $value;
+		echo wp_kses_post( $value );
 	}
 }

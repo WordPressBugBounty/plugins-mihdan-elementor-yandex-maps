@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'mihdan/elementor-yandex-maps',
-        'pretty_version' => '1.6.11',
-        'version' => '1.6.11.0',
-        'reference' => '9a1f6b9a64d5c139a60fd2fcd4c0280f65e9d1db',
+        'pretty_version' => '1.7.1',
+        'version' => '1.7.1.0',
+        'reference' => '0fc28fc6189a5c2dd9fcb0a089da5bfe88c95dd6',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'mihdan/elementor-yandex-maps' => array(
-            'pretty_version' => '1.6.11',
-            'version' => '1.6.11.0',
-            'reference' => '9a1f6b9a64d5c139a60fd2fcd4c0280f65e9d1db',
+            'pretty_version' => '1.7.1',
+            'version' => '1.7.1.0',
+            'reference' => '0fc28fc6189a5c2dd9fcb0a089da5bfe88c95dd6',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
